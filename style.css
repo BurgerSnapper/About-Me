@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 25px;
+    font-family: 'Langar', bold;
+    font-weight: 350;
+}
+#para{
+    font-size: 25px;
+    font-family: 'McLaren', cursive;
+}
+#apps{
+    width: 100%;
+    height: 800px;
+    background-color: navajowhite;
+}
+#games{
+    width: 100%;
+    height: 800px;
+    background-color: navajowhite;
+}
+#chatbot{
+    width: 100%;
+    height: 800px;
+    background-color: navajowhite;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+    text-align: center;
+}
+img{
+    transition: transform.2s;
+    width: 350px;
+    height: 350px;
+}
+img:hover{
+    transform: scale(0.9);
+}
